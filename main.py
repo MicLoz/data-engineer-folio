@@ -1,6 +1,7 @@
 import streamlit as st
 from colour_picker import colour_picker_section, return_custom_styling
 
+#Titles and Sidebar config.
 st.title("Michael Lozynsky")
 st.title("Data Engineering Portfolio")
 st.sidebar.title("Navigation")

@@ -17,3 +17,11 @@ env/
 
 # Ignore macOS system files
 .DS_Store
+
+#Ignore XML local config files
+DataEngineeringPortfolio.xml
+misc.xml
+modules.xml
+profiles_settings.xml
+Project_Defatult.xml
+vcs.xml

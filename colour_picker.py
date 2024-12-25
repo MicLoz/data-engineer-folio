@@ -1,5 +1,6 @@
 import streamlit as st
 
+#Colour picker function.
 def colour_picker_section():
     # Colour pickers for customisation
     st.write("### Customise Theme Colours")
